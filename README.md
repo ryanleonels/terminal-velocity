@@ -1,7 +1,7 @@
 # terminal-velocity
 "Terminal Velocity", a community incremental game by @randomtuba and team
 
-[Original project description follows]
+[Original project description follows:]
 
 **Welcome to Terminal Velocity**
 
